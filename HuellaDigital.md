@@ -10,6 +10,8 @@
 
 Estos lectores disponen de un emisor y receptor de ultrasonidos. El emisor manda ultra sonidos hacia la huella y estos rebotan de diferente manera e intensidad. De esta manera vuelven los ultrasonidos al lector donde el receptor los registra y es capaz de generar una huella digital en tres dimensiones.
 
+## Seguridad
+
 * Una vez pones la huella, el sistema operativo es el que sabe que llave escoger y es esa la que envía a los servidores de la página web o aplicación. De esta manera no se puede acceder a la huella y por tanto iniciar sesión con ella a no ser que el sistema no la haya protegido bien o que a través de root algún código pueda acceder a esta información.
 
 
