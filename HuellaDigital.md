@@ -14,7 +14,7 @@ Estos lectores disponen de un emisor y receptor de ultrasonidos. El emisor manda
 
 
 
-
+---
 
 
 ![Ejemplo](digit.jpg)
