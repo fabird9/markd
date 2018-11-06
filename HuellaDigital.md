@@ -7,7 +7,6 @@
 * Los lectores capacitativos son los más utilizados hoy en día en teléfonos móviles. Utilizan una gran cantidad de condensadores minúsculos que almacenan energía dependiendo de la forma de la huella.
 * Por lo tanto, si colocas tu huella sobre uno de estos sensores, los condensadores que toquen los salientes de tu huella tendrán una carga y los que no tendrán otra carga, formándose una huella digital en detalle con las concavidades de tu huella.
 * Los lectores por ultrasonidos son los últimos en llegar y los que más investigación tienen actualmente.
-
 Estos lectores disponen de un emisor y receptor de ultrasonidos. El emisor manda ultra sonidos hacia la huella y estos rebotan de diferente manera e intensidad. De esta manera vuelven los ultrasonidos al lector donde el receptor los registra y es capaz de generar una huella digital en tres dimensiones.
 
 ## Seguridad
